@@ -1,7 +1,3 @@
-"""
-Created by nell#2000
-Fixed by Krypton
-"""
 import threading, queue, random, os, sys, time
 from pystyle import Colors, Colorate
 from requests_futures.sessions import FuturesSession
